@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "FSAD-PROJECT",
+  "homepage": "https://varun28sharma.github.io/FSAD-PROJECT",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
