@@ -3,10 +3,10 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://YOUR_USERNAME.github.io/YOUR_REPO_NAME",
+  "homepage": "https://varun28sharma.github.io/BidVerse-A-Bidding-Website-main",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git"
+    "url": "https://github.com/varun28sharma/BidVerse-A-Bidding-Website-main.git"
   },
   "scripts": {
     "dev": "vite",
