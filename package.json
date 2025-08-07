@@ -3,11 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://varun28sharma.github.io/bidverse",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/varun28sharma/bidverse.git"
-  },
+  "homepage": "FSAD-PROJECT",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
